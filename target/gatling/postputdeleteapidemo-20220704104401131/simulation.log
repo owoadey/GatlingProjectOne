@@ -1,0 +1,55 @@
+RUN	com.gatlin.com.api.PostPutDeleteApiDemo	postputdeleteapidemo	1656931441131	Demo 6	3.6.1
+ERROR	create user request: Failed to build request: No baseUrl defined but provided url is relative : /users/2 	1656931442483
+ERROR	update user: Failed to build request: No baseUrl defined but provided url is relative : /users/2 	1656931442483
+USER	create users	START	1656931442478
+USER	Update User	START	1656931442479
+USER	Delete Users	START	1656931442480
+ERROR	create user request: Failed to build request: No baseUrl defined but provided url is relative : /users/2 	1656931442981
+ERROR	update user: Failed to build request: No baseUrl defined but provided url is relative : /users/2 	1656931442981
+USER	Update User	START	1656931442981
+USER	create users	START	1656931442981
+USER	Delete Users	START	1656931442981
+REQUEST		delete user req	1656931442494	1656931443085	OK	 
+ERROR	update user: Failed to build request: No baseUrl defined but provided url is relative : /users/2 	1656931443477
+ERROR	create user request: Failed to build request: No baseUrl defined but provided url is relative : /users/2 	1656931443477
+USER	create users	START	1656931443477
+USER	Update User	START	1656931443477
+USER	Delete Users	START	1656931443477
+REQUEST		delete user req	1656931442982	1656931443486	OK	 
+USER	create users	END	1656931443494
+USER	Update User	END	1656931443494
+REQUEST		delete user req	1656931443478	1656931443946	OK	 
+ERROR	create user request: Failed to build request: No baseUrl defined but provided url is relative : /users/2 	1656931443972
+ERROR	update user: Failed to build request: No baseUrl defined but provided url is relative : /users/2 	1656931443972
+USER	Update User	START	1656931443972
+USER	create users	START	1656931443972
+USER	Update User	END	1656931443987
+USER	create users	END	1656931443987
+USER	Delete Users	END	1656931444112
+ERROR	update user: Failed to build request: No baseUrl defined but provided url is relative : /users/2 	1656931444481
+USER	Update User	END	1656931444481
+ERROR	create user request: Failed to build request: No baseUrl defined but provided url is relative : /users/2 	1656931444482
+USER	Update User	START	1656931444481
+USER	create users	END	1656931444481
+USER	create users	START	1656931444482
+USER	Delete Users	END	1656931444497
+USER	Delete Users	END	1656931444950
+ERROR	create user request: Failed to build request: No baseUrl defined but provided url is relative : /users/2 	1656931444981
+USER	create users	END	1656931444980
+USER	Update User	END	1656931444980
+USER	create users	START	1656931444980
+ERROR	create user request: Failed to build request: No baseUrl defined but provided url is relative : /users/2 	1656931445475
+USER	create users	START	1656931445475
+USER	create users	END	1656931445491
+USER	Update User	END	1656931445491
+ERROR	create user request: Failed to build request: No baseUrl defined but provided url is relative : /users/2 	1656931445969
+USER	create users	START	1656931445969
+USER	create users	END	1656931445985
+ERROR	create user request: Failed to build request: No baseUrl defined but provided url is relative : /users/2 	1656931446480
+USER	create users	END	1656931446480
+USER	create users	START	1656931446480
+ERROR	create user request: Failed to build request: No baseUrl defined but provided url is relative : /users/2 	1656931446978
+USER	create users	END	1656931446978
+USER	create users	START	1656931446978
+USER	create users	END	1656931447489
+USER	create users	END	1656931447986

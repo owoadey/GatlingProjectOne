@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatlin.com.SearchAndEditComputer",
+  "simulationId": "searchandeditcomputer",
+  "start": 1656805540995,
+  "description": "",
+  "scenarios": ["Users", "Admins"],
+  "assertions": [
+
+  ]
+}
